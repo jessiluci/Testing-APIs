@@ -1,0 +1,50 @@
+{
+  "research_methods": [
+    {
+      "@context": "https://schema.org",
+      "@type": "research_methods",
+      "id": "1",
+      "method_type": "mixed",
+      "description": "Surveys and interviews were used...."
+    }
+  ],
+  "data_availability": [
+    {
+      "@context": "https://schema.org",
+      "@type": "data_availability",
+      "id": "1",
+      "status": "available",
+      "repository_name": "dryad"
+    }
+  ],
+  "code_availability": [
+    {
+      "@context": "https://schema.org",
+      "@type": "code_availability",
+      "id": "1",
+      "status": "unavailable",
+      "repository_name": "n/a"
+    }
+  ],
+  "articles": [
+    {
+      "@context": "https://schema.org",
+      "@type": "article",
+      "id": "1",
+      "unique_id": "xxxxx",
+      "name": "article name",
+      "article_author": "article authors",
+      "research_methodsId": "1",
+      "data_availabilityId": "1",
+      "code_availabilityId": "1"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Collection",
+    "name": "Scholarly Methods & Data Explorer",
+    "creator": "jessicatoth",
+    "about": "Discover how research was conducted",
+    "url": "https://www.jessicatoth.info"
+  }
+}
