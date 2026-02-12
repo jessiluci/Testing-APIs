@@ -27,13 +27,13 @@
       "data_repository": "Example evaluations reference external datasets (e.g., CelebA, Perspective API), but no dedicated data release accompanies this paper.",
       "code_availability": "No",
       "code_repository": "Example models referenced but not released with code in this paper."
-    }, 
+    },
     {
       "@context": "https://schema.org",
       "@type": "ScholarlyArticle",
       "id": "3",
       "title": "Datasheets for Datasets",
-      "date": "2018", 
+      "date": "2018",
       "authorship": "Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, Kate Crawford",
       "method_type": "Conceptual / Policy & Documentation Framework",
       "research_method": "Normative proposal with structured template and prototype examples",
