@@ -1,50 +1,54 @@
 {
-  "research_methods": [
+  "items": [
     {
       "@context": "https://schema.org",
-      "@type": "research_methods",
+      "@type": "research article",
       "id": "1",
-      "method_type": "mixed",
-      "description": "Surveys and interviews were used...."
-    }
-  ],
-  "data_availability": [
+      "title": "Using the Veil of Ignorance to align AI systems with principles of justice",
+      "date": "2023",
+      "authorship": "Laura Weidinger, Kevin R. McKee, Richard Everett, Saffron Huang, Tina O. Zhu, Martin J. Chadwick, Christopher Summerfield, Iason Gabriel"
+      "method_type": "Quantitative (with qualitative coding component)",
+      "research_method": "Incentive-compatible online experiments (5 studies, N=2,508); randomized controlled experimental design; logistic regression analysis; coded open-ended responses",
+      "data_availability": "Yes",
+      "data_repository": "Open Science Framework - listed in Materials and Methods",
+      "code_availability": "Yes",
+      "code_repository": "OSF (analysis scripts and code available with data)"
+    },
     {
       "@context": "https://schema.org",
-      "@type": "data_availability",
-      "id": "1",
-      "status": "available",
-      "repository_name": "dryad"
-    }
-  ],
-  "code_availability": [
+      "@type": "research article",
+      "id": "2",
+      "title": "Model Cards for Model Reporting",
+      "date": "2019",
+      "authorship": "Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru"
+      "method_type": "Conceptual / Design Framework",
+      "research_method": "Framework proposal with illustrative case examples (smiling classifier; toxicity detector)",
+      "data_availability": "No",
+      "data_repository": "Example evaluations reference external datasets (e.g., CelebA, Perspective API), but no dedicated data release accompanies this paper.",
+      "code_availability": "No",
+      "code_repository": "Example models referenced but not released with code in this paper."
+    }, 
     {
       "@context": "https://schema.org",
-      "@type": "code_availability",
-      "id": "1",
-      "status": "unavailable",
-      "repository_name": "n/a"
-    }
-  ],
-  "articles": [
-    {
-      "@context": "https://schema.org",
-      "@type": "article",
-      "id": "1",
-      "unique_id": "xxxxx",
-      "name": "article name",
-      "article_author": "article authors",
-      "research_methodsId": "1",
-      "data_availabilityId": "1",
-      "code_availabilityId": "1"
+      "@type": "research article",
+      "id": "3",
+      "title": "Datasheets for Datasets",
+      "date": "2018", 
+      "authorship": "Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, Kate Crawford"
+      "method_type": "Conceptual / Policy & Documentation Framework",
+      "research_method": "Normative proposal with structured template and prototype examples",
+      "data_availability": "N/A",
+      "data_repository": "The paper includes prototype documentation of existing datasets but does not release new data.",
+      "code_availability": "No",
+      "code_repository": "No code repository associated with this framework paper."
     }
   ],
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "Scholarly Methods & Data Explorer",
+    "name": "Scholarly Methods and Data Explorer",
     "creator": "jessicatoth",
-    "about": "Discover how research was conducted",
+    "about": "A collection of articles",
     "url": "https://www.jessicatoth.info"
   }
 }
