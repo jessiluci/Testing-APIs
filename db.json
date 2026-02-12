@@ -6,7 +6,7 @@
       "id": "1",
       "title": "Using the Veil of Ignorance to align AI systems with principles of justice",
       "date": "2023",
-      "authorship": "Laura Weidinger, Kevin R. McKee, Richard Everett, Saffron Huang, Tina O. Zhu, Martin J. Chadwick, Christopher Summerfield, Iason Gabriel"
+      "authorship": "Laura Weidinger, Kevin R. McKee, Richard Everett, Saffron Huang, Tina O. Zhu, Martin J. Chadwick, Christopher Summerfield, Iason Gabriel",
       "method_type": "Quantitative (with qualitative coding component)",
       "research_method": "Incentive-compatible online experiments (5 studies, N=2,508); randomized controlled experimental design; logistic regression analysis; coded open-ended responses",
       "data_availability": "Yes",
@@ -20,7 +20,7 @@
       "id": "2",
       "title": "Model Cards for Model Reporting",
       "date": "2019",
-      "authorship": "Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru"
+      "authorship": "Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru",
       "method_type": "Conceptual / Design Framework",
       "research_method": "Framework proposal with illustrative case examples (smiling classifier; toxicity detector)",
       "data_availability": "No",
@@ -34,7 +34,7 @@
       "id": "3",
       "title": "Datasheets for Datasets",
       "date": "2018", 
-      "authorship": "Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, Kate Crawford"
+      "authorship": "Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna Wallach, Hal Daumé III, Kate Crawford",
       "method_type": "Conceptual / Policy & Documentation Framework",
       "research_method": "Normative proposal with structured template and prototype examples",
       "data_availability": "N/A",
